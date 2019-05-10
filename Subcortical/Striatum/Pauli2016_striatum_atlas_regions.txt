@@ -1,0 +1,10 @@
+Caudate_Cp_L
+Caudate_Cp_R
+Putamen_Cp_L
+Putamen_Cp_R
+Caudate_Ca_L
+Caudate_Ca_R
+VS_L
+VS_R
+Putamen_Pp_L
+Putamen_Pp_R
